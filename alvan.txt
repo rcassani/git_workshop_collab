@@ -2,4 +2,6 @@
 
 This is a new line different from the initial push.
 
-Yet another line. Also deleted initial line.
+Yet another line. Also deleted initial line and now a new line below.
+
+Some more test lines.

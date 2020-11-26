@@ -1,1 +1,1 @@
-Bogus project to practice collaborating on a project with Git and GitHub as part of the WestGrid Summer School 2020.
+Bogus project to teach collaboration with Git through GitHub as part of WestGrid training.
